@@ -8,6 +8,8 @@ The first Game jam was a fantastic experience. The game jam was executed on a we
 
 ![IMG_0938](https://github.com/MethodCa/RunIceRun/assets/15893276/624a94c7-21e5-4453-94d8-a6199ae71ff3)
 
+![rungame](https://github.com/MethodCa/RunIceRun/assets/15893276/6181109c-682b-4a96-ad10-a68a3c62206c)
+
 > [!NOTE]
 > This is a very crude and rushed version but was an excellent showcase of was could be done in little time and lots of enthusiasm.
 
