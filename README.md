@@ -9,7 +9,7 @@ The first Game jam was a fantastic experience. The game jam was executed on a we
 ![IMG_0938](https://github.com/MethodCa/RunIceRun/assets/15893276/624a94c7-21e5-4453-94d8-a6199ae71ff3)
 
 > [!NOTE]
-> This is a very crude and rushed version but and excellent showcase of was could be done in little time and lots of enthusiasm.
+> This is a very crude and rushed version but was an excellent showcase of was could be done in little time and lots of enthusiasm.
 
 > [!IMPORTANT]
 > The app works in Windows only due to the deprecation of OpenGL in the OSX build.
